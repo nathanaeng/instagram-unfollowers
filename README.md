@@ -1,4 +1,7 @@
 # Instagram Unfollower Tracker
+## NOTICE:
+As of recently, this script does not seem to work consistently. I am currently investigating this, and may look into using another library.
+
 Keep track of who unfollows you on Instagram!
 
 ## How It Works
